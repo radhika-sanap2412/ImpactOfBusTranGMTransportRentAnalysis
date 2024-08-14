@@ -16,10 +16,14 @@ Machine Learning Techniques: Random Forest and Extreme Gradient Boosting (XGBoos
 
 ## Key Findings:
 
-Proximity Impact: Proximity to bus lines within 200m generally increases rental prices, especially in suburban areas. In contrast, in central and eastern parts of Greater Manchester, additional bus lines show a negative impact, likely due to already established connectivity.
-Spatial Variability: The GWR analysis revealed that the effect of bus transport accessibility on rental prices varies significantly across different regions, with more pronounced effects in less central areas.
-Importance of Connectivity: The study underscores the need for developing bus transit corridors in less central areas to enhance connectivity and potentially increase rental prices.
-
+Proximity Impact:
+Properties within 200 meters of unique bus lines see a decrease in rental prices by approximately 0.77% per additional line in less central areas, but an increase by about 1.44% per additional line in suburban areas, indicating the value of bus lines in regions with less established connectivity.
+Properties within 400 meters of unique bus routes show a 2.38% increase in rental prices for every additional route, demonstrating the importance of route diversity.
+Spatial Variability:
+The GWR model revealed significant spatial variability with an R² of 0.7050, indicating that the relationship between transport accessibility and rental prices is not uniform across Greater Manchester. The effect is more pronounced in suburban areas compared to central ones.
+The analysis identified that rental prices in the east of Greater Manchester increase by 3.83% with closer proximity to bus routes, while central areas exhibit a negative impact of 1.10% for additional lines, suggesting a saturation effect.
+Importance of Connectivity:
+The study found that proximity to train stations significantly boosts rental prices, with a 5.38% increase for properties located nearer to a station, underscoring the importance of multimodal connectivity.
 ## Conclusion:
 
-The study supports the hypothesis that bus transport accessibility significantly influences rental prices, with notable spatial variations across Greater Manchester. These insights can inform urban planning and public transport development strategies to enhance connectivity and equitable growth in the region.
+The findings support the hypothesis that bus transport accessibility significantly influences rental prices in Greater Manchester, with substantial spatial variations. Proximity to bus lines and routes is associated with increased rental prices, particularly in suburban areas where connectivity is less established. The GWR model highlighted that in areas with poor connectivity, rental prices could increase by up to 3.83% for closer bus route access. Conversely, in central areas with better-established networks, additional bus lines might decrease rental prices by up to 1.10% due to over-saturation. These insights are crucial for urban planners aiming to enhance connectivity and support equitable economic growth across Greater Manchester.
