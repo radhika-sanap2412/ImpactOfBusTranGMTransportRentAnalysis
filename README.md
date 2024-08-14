@@ -1,4 +1,4 @@
-# Title: Impact of Bus Transport Accessibility on Rental Prices in Greater Manchester
+# Impact of Bus Transport Accessibility on Rental Prices in Greater Manchester
 
 ## Summary:
 This project investigates the relationship between bus transport accessibility and rental prices across Greater Manchester, utilizing a combination of traditional hedonic pricing models and advanced spatial analysis techniques. The study focuses on how proximity to bus routes and unique bus lines influences rental prices, particularly within different regions of Greater Manchester.
